@@ -1,0 +1,14 @@
+Inspired by:
+
+https://www.youtube.com/watch?v=HVHVkKt-ldc&ab_channel=upir
+
+using:
+
+u8g library
+https://github.com/olikraus/u8g2/wiki
+
+photopea
+https://www.photopea.com/
+
+image2cpp
+https://javl.github.io/image2cpp/
