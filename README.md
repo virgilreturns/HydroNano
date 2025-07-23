@@ -6,3 +6,8 @@ Smart Hydroponics System
 Sensors: PH, Temperature, Humiditiy, 
 Web Application / Webpage Monitor via Zigbee/ WiFi/ LoRa
 Actuators 
+
+
+7/23/2025 Progress on the HMI menu
+
+![alt text](image.png)
