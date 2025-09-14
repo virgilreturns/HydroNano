@@ -10,4 +10,4 @@ Actuators
 
 7/23/2025 Progress on the HMI menu
 
-![alt text](image.png)
+![picture of new HMI menu](image.png)
